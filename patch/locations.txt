@@ -1,0 +1,5 @@
+Doc/library/ssl.rst ssl.rst
+Lib/ssl.py ssl.py 
+Lib/test/test_ssl.py test_ssl.py
+Modules/_ssl.c _ssl.c
+Modules/clinic/_ssl.c.h _ssl.c.h

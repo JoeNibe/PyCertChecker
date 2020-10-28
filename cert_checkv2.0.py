@@ -28,7 +28,7 @@ LOGGER = log.setup_logger("cert_check", con_level=0)
 __author__ = "Febin Jose"
 __version__ = "2.0"
 
-THREADS = 20
+THREADS = 50
 CSV_FILE = "output.csv"
 COMPLETE = 0
 
@@ -366,8 +366,8 @@ def main():
         finally:
             csv_file.close()
     log.print_status(COMPLETE, total_count, text=f"{' '*40}")
-    end_time = time.time() - start_time
-    print(f"[+] Scan complete in {Fore.LIGHTGREEN_EX}{end_time}s")
+    end_time = time.time() - start
+    print(f"\n[+] Scan complete in {Fore.LIGHTGREEN_EX}{end_time:{.2}f} seconds")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,405 @@
+28-10-2020 10:07:21 INFO     [log.py:87] ----------------------------------------------------------------------------------------------------
+28-10-2020 10:07:22 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 145.62.68.97
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:22 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.78.18.228
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:23 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.206.75.134
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.230.213
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.11.127
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.29.251
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.245
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.188
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.149
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.24.156
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.26.31
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.27.41
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.174
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.165
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.8.23
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.54.121
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.14.182
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.186.217
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.21.209
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:07:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.56.239
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:20 INFO     [log.py:87] ----------------------------------------------------------------------------------------------------
+28-10-2020 10:17:21 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 145.62.68.97
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:21 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.78.18.228
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:21 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.206.75.134
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.11.127
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.174
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.230.213
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.245
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.54.121
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.188
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.27.41
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.165
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.24.156
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.26.31
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.14.182
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.149
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.29.251
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.21.209
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.8.23
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:26 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.56.239
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:17:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.186.217
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:21 INFO     [log.py:87] ----------------------------------------------------------------------------------------------------
+28-10-2020 10:20:22 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 145.62.68.97
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:22 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.78.18.228
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:22 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.206.75.134
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.27.41
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.188
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.186.217
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.230.213
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.165
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.26.31
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.245
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.21.209
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.54.121
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.24.156
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.29.251
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.174
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.149
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.14.182
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:27 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.8.23
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.11.127
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:28 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.56.239
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:55 INFO     [log.py:87] ----------------------------------------------------------------------------------------------------
+28-10-2020 10:20:56 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 145.62.68.97
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:56 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.78.18.228
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:20:56 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 194.206.75.134
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.230.213
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.21.209
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.29.251
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.245
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.8.23
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.149
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 23.96.186.217
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.54.121
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.26.31
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.27.41
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.14.182
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.174
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.12.165
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.24.156
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.18.188
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:01 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.11.127
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 10:21:02 ERROR    [cert_checkv2.0.py:205] 'SSLSocket' object has no attribute 'get_unverified_chain' 65.52.56.239
+Traceback (most recent call last):
+  File ".\cert_checkv2.0.py", line 179, in get_certs
+    cert_chain = ssl_socket.get_unverified_chain(binary_form=True)
+AttributeError: 'SSLSocket' object has no attribute 'get_unverified_chain'
+28-10-2020 12:26:43 INFO     [log.py:87] ----------------------------------------------------------------------------------------------------
